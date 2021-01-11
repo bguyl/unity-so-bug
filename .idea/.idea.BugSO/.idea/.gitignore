@@ -3,6 +3,6 @@
 /workspace.xml
 # Rider ignored files
 /modules.xml
-/contentModel.xml
+/.idea.BugSO.iml
 /projectSettingsUpdater.xml
-/.idea.New Unity Project.iml
+/contentModel.xml
