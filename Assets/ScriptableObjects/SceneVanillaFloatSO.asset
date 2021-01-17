@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 737e00a3f50171f4b98e7dc48a39cee5, type: 3}
-  m_Name: VanillaDDOLFloatSO
+  m_Name: SceneVanillaFloatSO
   m_EditorClassIdentifier: 
   _global: 0
+  _scene: 1
+  _initialValue: 0
   _value: 0
