@@ -951,8 +951,8 @@ GameObject:
   - component: {fileID: 544657824}
   - component: {fileID: 544657823}
   - component: {fileID: 544657822}
-  - component: {fileID: 544657821}
   - component: {fileID: 544657825}
+  - component: {fileID: 544657821}
   m_Layer: 5
   m_Name: Button-SceneA
   m_TagString: Untagged
@@ -989,10 +989,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 544657819}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 204546782a7cf1a46b02808edbb973b1, type: 3}
+  m_Script: {fileID: 11500000, guid: 1e8a0ac70a06463f98faeaa038b77455, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scene: 0
+  _scene:
+    m_AssetGUID: 3ac135d9f27e26a41bde33b5f7f44221
+    m_SubObjectName: 
+    m_SubObjectType: 
 --- !u!114 &544657822
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2514,8 +2517,8 @@ GameObject:
   - component: {fileID: 1323096385}
   - component: {fileID: 1323096384}
   - component: {fileID: 1323096383}
-  - component: {fileID: 1323096382}
   - component: {fileID: 1323096386}
+  - component: {fileID: 1323096382}
   m_Layer: 5
   m_Name: Button-SceneC
   m_TagString: Untagged
@@ -2552,10 +2555,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1323096380}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 204546782a7cf1a46b02808edbb973b1, type: 3}
+  m_Script: {fileID: 11500000, guid: 1e8a0ac70a06463f98faeaa038b77455, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scene: 2
+  _scene:
+    m_AssetGUID: 23a5e6ce9e72a8348af00fd3ab0969b6
+    m_SubObjectName: 
+    m_SubObjectType: 
 --- !u!114 &1323096383
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4831,8 +4837,8 @@ GameObject:
   - component: {fileID: 2057453888}
   - component: {fileID: 2057453887}
   - component: {fileID: 2057453886}
-  - component: {fileID: 2057453885}
   - component: {fileID: 2057453889}
+  - component: {fileID: 2057453885}
   m_Layer: 5
   m_Name: Button-SceneB
   m_TagString: Untagged
@@ -4869,10 +4875,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 2057453883}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 204546782a7cf1a46b02808edbb973b1, type: 3}
+  m_Script: {fileID: 11500000, guid: 1e8a0ac70a06463f98faeaa038b77455, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scene: 1
+  _scene:
+    m_AssetGUID: 90f06d672866cfe4ea210fe4ac9b0627
+    m_SubObjectName: 
+    m_SubObjectType: 
 --- !u!114 &2057453886
 MonoBehaviour:
   m_ObjectHideFlags: 0
