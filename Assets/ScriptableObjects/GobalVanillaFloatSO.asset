@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc7100aa819646c8aa8782ca57b5c143, type: 3}
-  m_Name: VanillaDDOLFloatSO
+  m_Script: {fileID: 11500000, guid: 737e00a3f50171f4b98e7dc48a39cee5, type: 3}
+  m_Name: GobalVanillaFloatSO
   m_EditorClassIdentifier: 
-  _global: 0
+  _global: 1
   _value: 0
